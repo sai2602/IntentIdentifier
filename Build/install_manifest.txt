@@ -1,0 +1,5 @@
+C:/Program Files (x86)/Intent_Identifier/bin/Intent_Identifier.exe
+C:/Program Files (x86)/Intent_Identifier/src/main.cpp
+C:/Program Files (x86)/Intent_Identifier/src/LUT.cpp
+C:/Program Files (x86)/Intent_Identifier/header/LUT.h
+C:/Program Files (x86)/Intent_Identifier/header/std_includes.h

@@ -1,0 +1,10 @@
+^C:\USERS\SAIPA\DESKTOP\INTENT_IDENTIFIER\BUILD\CMAKEFILES\12C4A4755CDD51D4EE3BB55BEB8E347F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/saipa/Desktop/Intent_Identifier -BC:/Users/saipa/Desktop/Intent_Identifier/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/saipa/Desktop/Intent_Identifier/Build/Intent_Identifier.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

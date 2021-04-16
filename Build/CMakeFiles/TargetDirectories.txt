@@ -1,0 +1,4 @@
+C:/Users/saipa/Desktop/Intent_Identifier/Build/CMakeFiles/Intent_Identifier.dir
+C:/Users/saipa/Desktop/Intent_Identifier/Build/CMakeFiles/INSTALL.dir
+C:/Users/saipa/Desktop/Intent_Identifier/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/saipa/Desktop/Intent_Identifier/Build/CMakeFiles/ZERO_CHECK.dir
