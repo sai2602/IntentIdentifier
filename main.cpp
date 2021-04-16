@@ -29,7 +29,7 @@ int main()
     city_flag = search_for_city(input_string);
 
     switch (intent.size()) {
-    case NO_INTENT_FOUND: 
+    case NO_INTENT_FOUND:
         desired_intent = "No Pre-Defined Intent";
         break;
     case FIXED_INTENT_FOUND:
@@ -127,7 +127,10 @@ void string_padding(str* desired_intent) {
     else if (*desired_intent == "Calendar") {
         *desired_intent = "Check Calendar";
     }
-    else {
+    else if (*desired_intent == "Facts") {
         *desired_intent = "Get Facts";
+    }
+    else {
+        //Do nothing because no intent was found.
     }
 }

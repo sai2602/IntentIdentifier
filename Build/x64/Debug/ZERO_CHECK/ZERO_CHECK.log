@@ -1,1 +1,9 @@
 ﻿  Checking Build System
+  CMake is re-running because C:/Users/saipa/Desktop/Intent_Identifier/Build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/saipa/Desktop/Intent_Identifier/CMakeLists.txt'
+    is newer than 'C:/Users/saipa/Desktop/Intent_Identifier/Build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.19042.
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/saipa/Desktop/Intent_Identifier/Build
