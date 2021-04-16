@@ -11,4 +11,3 @@ install(TARGETS "${PROJECT_NAME}" DESTINATION bin)
 install(FILES "main.cpp" "LUT.cpp" DESTINATION src)
 install(FILES "LUT.h" "std_includes.h" DESTINATION header)
 
-# TODO: Add tests and install targets if needed.
